@@ -1,0 +1,19 @@
+p {
+  color: green;
+}
+
+#stuff {
+    color: brown;
+}
+
+.special-class {
+    color: gold;
+    font-size: 20px;
+}
+
+.wrapper {
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+
+}
